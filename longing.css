@@ -1,0 +1,26 @@
+body{
+	background: url(../img/web.jpg);
+}
+.boxone{
+	border:3px #FFFFFF solid;
+	border-radius:20px;
+	background-color:#87cefa99;
+	color:#ffffff;
+	text-align:center;
+	
+}
+.title{
+	font-size:30px;
+	color:#FFFFFF;
+}
+.container{
+	width:80%;
+	margin:auto;
+}
+button{
+	background-color:#87cefa87;
+	padding:10px 100px;
+	color:#ffffff;
+	font-weight:bold;
+	font-size:15px;
+}
